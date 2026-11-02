@@ -6,3 +6,4 @@ https://www.youtube.com/watch?v=a_oP3or-vSA&t=8s
 https://www.youtube.com/watch?v=vNZC5bM0Xnw&t=11s
 https://www.youtube.com/watch?v=ixjNNZUyLz8
 https://www.youtube.com/watch?v=l9nFTZPWqzw
+JavaFX Simple Calculator: https://youtu.be/LDYV3s1l1E8
